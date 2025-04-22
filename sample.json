@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Jerry",
+    "algol": "A",
+    "basic": "C",
+    "c++": "B+"
+  },
+  {
+    "name": "Riah",
+    "algol": "A+",
+    "basic": "B",
+    "c++": "C"
+  },
+  {
+    "name": "Paul",
+    "algol": "B+",
+    "basic": "C+",
+    "c++": "A"
+  }
+]
